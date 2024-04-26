@@ -10,4 +10,7 @@ printf("sum= %d\n",c);
 
 int d=a-b;
 printf("sub= %d\n",d);
+
+int e=a*b;
+printf("mul= %d\n",e);
 }
